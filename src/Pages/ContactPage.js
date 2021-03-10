@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 import React from 'react'
 import ContactItem from '../Components/ContactItems';
 import phone from '../img/phone.svg';

@@ -8,10 +8,10 @@ function ImageSection() {
                 <img src={about} alt=""/>
             </div>
             <div className="about-info">
-                <h4>I am<span> Collin Cummings</span></h4>
+                <h4>I'm<span> Collin Cummings</span></h4>
                 <p className="about-text">
-                    Currently I am a Junior at SUNY Cortland studying Business Economics 
-                     with a minor in Computer Application
+                    Currently attending SUNY Cortland studying Business Economics 
+                     with a minor in Computer Application. I love sports, business and technology, and plan on running my own company in the future.
                 </p>
                 <div className="about-details">
                     <div className="left-section">

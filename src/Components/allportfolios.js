@@ -11,8 +11,8 @@ const portfolios = [
         category: 'Animation',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtube',
+        icon2: 'Github',
         image: port1,
         title: 'Autodesk Maya'
     },
@@ -21,8 +21,8 @@ const portfolios = [
         category: 'Python',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtube',
+        icon2: 'Github',
         image: port2,
         title: 'Python Web Scrapping'
     },
@@ -31,8 +31,8 @@ const portfolios = [
         category: 'Animation',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtubd',
+        icon2: 'Github',
         image: port3,
         title: 'Autodesk Maya'
     },
@@ -41,8 +41,8 @@ const portfolios = [
         category: 'Javascript',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtube',
+        icon2: 'Github',
         image: port4,
         title: 'Vanilla Javascript Website'
     },
@@ -51,18 +51,18 @@ const portfolios = [
         category: 'React Js',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtube',
+        icon2: 'Github',
         image: port6,
-        title: 'Getting Started With React'
+        title: ' Using API key to create a Weather App with React'
     },
     {
         id: 6,
         category: 'React Js',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtube',
+        icon2: 'Github',
         image: port7,
         title: 'Vanilla Javascript Website'
     },
@@ -71,8 +71,8 @@ const portfolios = [
         category: 'Test Port',
         link1: 'www.youtube.com',
         link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        icon1: 'Youtube',
+        icon2: 'Github',
         image: port4,
         title: 'Vanilla Javascript Website'
     }

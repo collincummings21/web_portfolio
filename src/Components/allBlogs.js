@@ -8,8 +8,8 @@ const blogs = [
     {
         id: 1,
         image: blog1,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Best programming languages to learn in 2021',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '21',
         month: 'Mar',
         year: '2020'
@@ -17,8 +17,8 @@ const blogs = [
     {
         id: 2,
         image: blog2,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Why you need to learn DevOps',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '09',
         month: 'Dec',
         year: '2019'
@@ -26,8 +26,8 @@ const blogs = [
     {
         id: 3,
         image: blog3,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Best Methods to Stay Productive',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '15',
         month: 'Jun',
         year: '2018'
@@ -35,8 +35,8 @@ const blogs = [
     {
         id: 4,
         image: blog4,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'How to make money on Wordpress',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '04',
         month: 'Aug',
         year: '2020'
@@ -44,8 +44,8 @@ const blogs = [
     {
         id: 5,
         image: blog5,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'What makes a Company suceed',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '09',
         month: 'Sep',
         year: '2019'
@@ -53,8 +53,8 @@ const blogs = [
     {
         id: 6,
         image: blog5,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'How to create a passive income online',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '09',
         month: 'Sep',
         year: '2019'
@@ -62,8 +62,8 @@ const blogs = [
     {
         id: 7,
         image: blog3,
-        title: 'Test Blogs data1',
-        link: 'https://www.facebook.com/',
+        title: 'The future of the internet',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '09',
         month: 'Sep',
         year: '2019'
@@ -71,8 +71,8 @@ const blogs = [
     {
         id: 8,
         image: blog1,
-        title: 'Test Blogs data2',
-        link: 'https://www.facebook.com/',
+        title: 'Best investing strategy to retire early',
+        link: 'https://mapyourmeaning.com/blog/',
         date : '09',
         month: 'Sep',
         year: '2019'
